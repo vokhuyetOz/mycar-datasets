@@ -1,5 +1,26 @@
 {
  "countries": {
+  "JP": {
+   "count": 1210,
+   "file": "places/JP.202611101510.bin",
+   "sha256": "2c51e18661f026f07541453a497cd015f911ba1247ba7d3d8875f85ee80671c1",
+   "tsvSha256": "35a9a384e5a60dc99003ecbd783b78a4794a2d71a8c6cc4648cecd0ba705d561",
+   "version": 202611101510
+  },
+  "TH": {
+   "count": 766,
+   "file": "places/TH.202611101510.bin",
+   "sha256": "f38fb2563f4ca67a23dc69acb3dab291d4cd08fbc3f75fde2cc69748b8681dc3",
+   "tsvSha256": "b6745beb85ebddc37c041ae7dbe2322c358e47d5dfe5e4f55e2c6bc1be2e7419",
+   "version": 202611101510
+  },
+  "US": {
+   "count": 2329,
+   "file": "places/US.202611101510.bin",
+   "sha256": "f73fea96af3813163fefd217ac4187c36fbda4090f98459c92b28226d424ac74",
+   "tsvSha256": "1bd2a2b77ce29ebae7ce61ef8dec157eeac5efde1c23db30a82f82640b996af5",
+   "version": 202611101510
+  },
   "VN": {
    "count": 1978,
    "file": "places/VN.202611100811.bin",
