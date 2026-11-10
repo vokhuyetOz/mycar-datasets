@@ -1,0 +1,12 @@
+{
+ "countries": {
+  "VN": {
+   "count": 1978,
+   "file": "places/VN.202611100811.bin",
+   "sha256": "bb61f9e5e83d55421b6d8d07b582d1462cf84359fc19f10cc6ed7f2340066a1d",
+   "tsvSha256": "60f453516196d40d53f52696bc4be2c4446dba9ea077250cded635e826370814",
+   "version": 202611100811
+  }
+ },
+ "format": 1
+}
